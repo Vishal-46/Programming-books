@@ -1,7 +1,7 @@
 ### Index
 
-* [C](#c)
 * [C#](#csharp)
+* [C](#c)
 * [C++](#cpp)
 * [Java](#java)
 * [JavaScript](#javascript)
